@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">AutocompleteTextView-84</string>
+
+
+
+       <string-array name="famousName">
+
+           <item>1. Muhammad</item>
+           <item>2. Issac Newton</item>
+           <item>3. Jesus Christ</item>
+           <item>4. Buddha</item>
+           <item>5. Confucius</item>
+           <item>6. St Paul</item>
+           <item>7. Tsai Lun</item>
+           <item>8. Johann Gutenberg</item>
+           <item>9. Christopher Columbus</item>
+           <item>10. Albert Einstein</item>
+           <item>11. Louis Pasteur</item>
+           <item>12. Galileo Galilei</item>
+           <item>13. Aristotle</item>
+           <item>14. Euclid</item>
+           <item>15. Moses</item>
+           <item>16. Charles Darwin</item>
+           <item>17. Shih Huang Ti</item>
+           <item>18. Augustus Caesar</item>
+           <item>19. Nicolaus Copernicus</item>
+           <item>20. Antoine Laurent Lavoisier</item>
+           <item>21. Constantine the Great</item>
+           <item>22. James Watt</item>
+           <item>23. Michael Faraday</item>
+           <item>24. James Clerk Maxwell</item>
+           <item>25. Martin Luther</item>
+           <item>26. George Washington</item>
+           <item>27. Karl Marx</item>
+           <item>28. Orville Wright and Wilbur Wright</item>
+           <item>29. Genghis Khan</item>
+           <item>30. Adam Smith</item>
+           <item>31. WilliamShakespeare</item>
+           <item>32. John Dalton</item>
+           <item>33. Alexander the Great</item>
+           <item>34. Napoleon Bonaparte</item>
+           <item>35. Thomas Edison</item>
+           <item>36. Antony van Leeuwenhoek</item>
+           <item>37. William T.G. Morton</item>
+           <item>38. Guglielmo Marconi</item>
+           <item>39. Adolf Hitler</item>
+           <item>40. Plato</item>
+           <item>41. Oliver Cromwell</item>
+           <item>42. Alexander Graham Bell</item>
+           <item>43. Alexander Fleming</item>
+           <item>44. John Locke</item>
+           <item>45. Ludwig van Beethoven</item>
+           <item>46. Werner Heisenberg</item>
+           <item>47. Louis Daguerre</item>
+           <item>48. Simón Bolívar</item>
+           <item>49. René Descartes</item>
+           <item>50. Michelangelo</item>
+           <item>51. Pope Urban II</item>
+           <item>52. Umar ibn al-Khattab</item>
+           <item>53. Asoka</item>
+           <item>54. St Augustine</item>
+           <item>55. William Harvey</item>
+           <item>56. Ernest Rutherford</item>
+           <item>57. John Calvin</item>
+           <item>58. Gregor Mendel</item>
+           <item>59. Max Plank</item>
+           <item>60. Joseph Lister</item>
+           <item>61. Nikolaus August Otto</item>
+           <item>62. Francisco Pizarro</item>
+           <item>63. Hernando Cortes</item>
+           <item>64. Thomas Jefferson</item>
+           <item>65. Queen Isabella I</item>
+           <item>66. Joseph Stalin</item>
+           <item>67. Julius Caesar</item>
+           <item>68. William the Conqueror</item>
+           <item>69. Sigmund Freud</item>
+           <item>70. Edward Jenner</item>
+           <item>71. William Conrad Röntgen</item>
+           <item>72. Johann Sebastian Bach</item>
+           <item>73. Lao Tzu</item>
+           <item>74. Voltaire</item>
+           <item>75. Johannes Kepler</item>
+           <item>76. Enrico Fermi</item>
+           <item>77. Leonhard Euler</item>
+           <item>78. Jean-Jacques Rousseau</item>
+           <item>79. Niccoló Machiavelli</item>
+           <item>80. Thomas Malthus</item>
+           <item>81. John F. Kennedy</item>
+           <item>82. Gregory Pincus</item>
+           <item>83. Mani</item>
+           <item>84. Lenin</item>
+           <item>85. Sui Wen Ti</item>
+           <item>86. Vasco da Gama</item>
+           <item>87. Cyrus the Great</item>
+           <item>88. Peter the Great</item>
+           <item>89. Mao Zedong</item>
+           <item>90. Francis Bacon</item>
+           <item>91. Henry Ford</item>
+           <item>92. Mencius</item>
+           <item>93. Zoroaster</item>
+           <item>94. Queen Elizabeth I</item>
+           <item>95. Mikhail Gorbachev</item>
+           <item>96. Menes</item>
+           <item>97. Charlemagne</item>
+           <item>98. Homer</item>
+           <item>99. Justinian I</item>
+           <item>100. Mahavira</item>
+           <item>99. Justinian I</item>
+           <item>99. Justinian I</item>
+           <item>99. Justinian I</item>
+
+
+
+
+       </string-array>
+
+
+</resources>
